@@ -1,0 +1,11 @@
+D:\InterviewS\PREPARING\DESIGNPATTERN\FlyweightPattern\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp3.0\FlyweightPattern.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\FlyweightPattern\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp3.0\FlyweightPattern.AssemblyInfoInputs.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\FlyweightPattern\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp3.0\FlyweightPattern.AssemblyInfo.cs
+D:\InterviewS\PREPARING\DESIGNPATTERN\FlyweightPattern\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp3.0\FlyweightPattern.exe
+D:\InterviewS\PREPARING\DESIGNPATTERN\FlyweightPattern\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp3.0\FlyweightPattern.deps.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\FlyweightPattern\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp3.0\FlyweightPattern.runtimeconfig.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\FlyweightPattern\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp3.0\FlyweightPattern.runtimeconfig.dev.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\FlyweightPattern\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp3.0\FlyweightPattern.dll
+D:\InterviewS\PREPARING\DESIGNPATTERN\FlyweightPattern\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp3.0\FlyweightPattern.pdb
+D:\InterviewS\PREPARING\DESIGNPATTERN\FlyweightPattern\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp3.0\FlyweightPattern.dll
+D:\InterviewS\PREPARING\DESIGNPATTERN\FlyweightPattern\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp3.0\FlyweightPattern.pdb
